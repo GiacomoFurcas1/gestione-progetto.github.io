@@ -1,3 +1,8 @@
 p:first-of-type::first-letter {
-	initial-letter: 3; color: red;
+    float: left;
+    padding: 0px;
+    font-size: 177.455px;
+    line-height: 0px;
+    margin-top: 13.12px;
+    height: 117.12px;
 }
