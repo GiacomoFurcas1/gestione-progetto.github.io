@@ -1,8 +1,8 @@
-p:first-of-type::first-letter {
+p::first-letter {
     float: left;
     padding: 0px;
-    font-size: 177.455px;
+    font-size: 30px;
     line-height: 0px;
-    margin-top: 13.12px;
-    height: 117.12px;
+    // margin-top: 13.12px;
+    height: 30px;
 }
